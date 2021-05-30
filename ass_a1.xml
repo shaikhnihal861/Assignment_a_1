@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Course>
+<Computer_Science>
+      <Student_name>Rushikesh</Student_name>
+      <Class_name>TYBCS</Class_name>
+      <percentage>54%</percentage>
+
+	   <Student_name>Suhas</Student_name>
+       <Class_name>TYBCS</Class_name>
+       <percentage>65%</percentage>
+
+	   <Student_name>Sushant</Student_name>
+       <Class_name>TYBCS</Class_name>
+       <percentage>50%</percentage>
+
+	   <Student_name>Rajendra</Student_name>
+       <Class_name>TYBCS</Class_name>
+       <percentage>69%</percentage>
+
+	   <Student_name>Rohit</Student_name>
+        <Class_name>TYBCS</Class_name>
+        <percentage>45%</percentage>
+</Computer_Science>
+</Course>
